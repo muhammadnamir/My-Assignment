@@ -1,0 +1,2 @@
+let Name: string="NAMIR";
+console.log(`Hello ${Name}, would like to learn some typescript today?`)
